@@ -1,0 +1,10 @@
+n0 *= 1
+n1 *= (not n7 and n3) or (n7 and not n3)
+n2 *= (n9 and n1)
+n3 *= (not n8 and not n0) or (not n8 and n0)
+n4 *= (not n0 and not n9) or (not n0 and n9) or (n0 and n9)
+n5 *= (n0 and not n5)
+n6 *= (n3 and n9)
+n7 *= (not n5 and n4)
+n8 *= (not n4 and n0) or (n4 and not n0) or (n4 and n0)
+n9 *= (not n4 and not n7) or (n4 and not n7) or (n4 and n7)
