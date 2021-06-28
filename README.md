@@ -1,8 +1,8 @@
-# StableMotifs_benchmarks
-This is a collection of tools to run benchmarks of the StableMotifs package https://github.com/jcrozum/StableMotifs
+# PyStableMotifs_benchmarks
+This is a collection of tools to run benchmarks of the PyStableMotifs package https://github.com/jcrozum/PyStableMotifs
 <br>
 Tools compared in the benchmarks (recommended to install them in the same conda environment):
-* StableMotifs: https://github.com/jcrozum/StableMotifs
+* StableMotifs: https://github.com/jcrozum/PyStableMotifs
 * GinSim-python: https://github.com/GINsim/GINsim-python
 * boolSim-python: https://github.com/colomoto/boolSim-python
 * CABEAN-python: https://github.com/algorecell/cabean-python
