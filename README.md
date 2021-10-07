@@ -32,4 +32,9 @@ For additional information, such as which methods are compared and the value of 
 
 The code processes the contents of _timing_results_RBN.xlsx_ and generates a boxplot figure summarizing the comparison between the methods. The for the detailed parameters of the plots such as which methods to include in the comparison, color schemes, etc. see the notebook.
 
+## paper_results - folder
+
+The folder contains the random boolean network ensemble, attractor output and timing table of the results discussed in our associated application paper (under review). 
+
+
 *For questions and comments regarding the code and the bechmarks feel free to open an issue or contact me at deriteidavid@gmail.com.*
