@@ -9,6 +9,7 @@ Tools compared in the benchmarks:
 * pypint: https://github.com/pauleve/pypint
 * pyboolnet: https://github.com/hklarner/pyboolnet
 * stablemotifs (Java version - only compatible with  JRE/JDK 8): https://github.com/jgtz/StableMotifs
+  (for python interface see: https://anaconda.org/colomoto/stablemotifs-python)
 
 It is recommended that these be installed in the same environment in order to run the benchmarks in the most seamless manner. 
 
